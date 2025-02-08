@@ -1,0 +1,118 @@
+.body-sign {
+    background-image: url('../src/images/palestine\ flag.jpg');
+    background-position: top;
+    background-size: cover;
+    background-repeat: inherit;
+
+}
+
+.head{
+ text-align: center;
+}
+.name{
+    text-align: left;
+    margin-left: 1em;
+    font-size: 16px;
+    width: 20em;
+    display: flex;
+}
+.navbar1{
+    text-align: center;
+    height: 4em;
+}
+.navbarlink{
+    font-size: 28px;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.container-profile{
+    display: flex;
+    background-image: url('../src/images/artistic-colorful-watercolor-brush-strokes.jpg');
+    background-position: right;
+    background-size: cover;
+    background-repeat: inherit;
+}
+
+.container_sign{
+    width: 50%;
+    background-color: rgba(54, 49, 49, 0.508);
+    margin-left: 25%;
+    margin-right: 35%;
+    margin-top: 10%;
+    padding: 3%;
+    border: medium dashed rgb(246, 243, 243);
+    border-radius: 15px;
+    box-shadow: 4px 4px 4px  rgba(80, 79, 79, 0.831);
+    color: white;
+}
+.container-add{
+        max-width: 600px;
+        background-color: #ffffffa0;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(47, 47, 46, 0.1);
+        float: left;
+        margin-top: 50px;
+        margin-left: 2em;
+        margin-bottom: 50px;
+        
+}
+.container-see{
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #ffffffad;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.titre-blog{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container-blogs{
+    background-image: url('../src/images/artistic-colorful-watercolor-brush-strokes.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: inherit;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.articleb {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .h2artb {
+    color: #333;
+    font-size: 24px;
+  }
+  
+  .img-containerb {
+    margin-top: 10px;
+  }
+  
+  .imgartb {
+    max-width: 300px; /* Ajustez cette valeur en fonction de la taille souhaitée */
+    height: auto;
+  }
+  
+  
+  .partb {
+    color: #555;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  .formartb {
+    margin-top: 10px;
+  }
+  
+  .inpartb {
+    display: none; /* Si vous ne voulez pas afficher ce champ, vous pouvez le masquer *
+  }
+  
